@@ -1,0 +1,15 @@
+{
+  "@_GENERAL": {
+    "Comment": "We end up using easy_localization from this link: https://www.reddit.com/r/FlutterDev/comments/ykbofa/localization_is_it_me_or_is_it_overcomplicated/"
+  },
+  "@_ONBOARDING_PAGE": {
+  },
+  "chooseInterest" : "Choose your interests",
+  "chooseInterestSubtitle" : "Pick 3 or more topics you like",
+  "next": "Next",
+
+  "@_HOME_PAGE": {
+  },
+  "following" : "Following",
+  "forYou" : "For You"
+}
